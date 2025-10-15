@@ -1,0 +1,9 @@
+/* Global styles for the application */
+#app {
+  font-weight: normal;
+}
+
+/* Global box-sizing */
+* {
+  box-sizing: border-box;
+}
